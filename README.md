@@ -259,7 +259,4 @@ python3 generate_test_image.py 2048 2048 xlarge.pgm
 | **H2D / D2H** | Host-to-Device / Device-to-Host (transfer memori CPU↔GPU pada OpenCL) |
 
 
-## Hasil Pengujian
-
-
 ## Link Vidio Penjelasan
