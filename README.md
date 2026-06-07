@@ -116,7 +116,7 @@ gcc -O2 -o sequential sequential.c -lm
 ------------------------------
 ```
 
-**Catat nilai "Exec time" untuk perbandingan!**
+
 
 ---
 
